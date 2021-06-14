@@ -1,0 +1,14 @@
+{
+  "name": "clase26maquetado",
+  "version": "1.0.0",
+  "description": "Tarea en clase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Octavio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
