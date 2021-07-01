@@ -1,5 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
-:root{ /* creo las variables */
+:root{ 
     --color-amarillo : #EAC926;
     --color-azul : #03264C;
     --color-celeste : #1259c3;
